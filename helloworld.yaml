@@ -1,7 +1,7 @@
 server:
   port: 8090
 prueba:
-  value: Cargado desde github
+  value: Cargado desde github default
 management:
   endpoints:
     web:
