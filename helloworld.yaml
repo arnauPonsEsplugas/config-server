@@ -1,0 +1,4 @@
+server:
+  port: 8090
+prueba:
+  value: Cargado desde github
